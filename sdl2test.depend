@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1643857288 source:d:\tests\kmod_ssd1306\sdl2test\main.cpp
+	<exception>
+	<string>
+	<iostream>
+	<SDL.h>
+
+1643965290 source:d:\tests\kmod_ssd1306\sdl2test\main.c
+	"SDL.h"
+
